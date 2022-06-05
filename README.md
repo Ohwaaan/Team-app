@@ -11,5 +11,4 @@ Name - Github
 
 This is the repository for the Assignment 1 - Zoo
 
-[https://ohwaaan.github.io/Team-app/](Website Link)
 <a href="https://ohwaaan.github.io/Team-app/" target="_blank">Zoo webpage</a>
