@@ -1,3 +1,5 @@
-The readme is created to show the directory for Plinio_zoo :)
+Group Member: 
 
-Please update with your actual readme text when you access this!!
+Plinio Cabrera - cab-p
+
+This repository is the website for Assignment 1 - Zoo
