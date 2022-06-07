@@ -1,3 +1,6 @@
 The readme is created to show the directory for Douglas_zoo :)
 
-Please update with your actual readme text when you access this!!
+Group Member:
+Douglas Oviedo - doug-oviedo
+
+Four animals (Silverback Gorilla, Armadillo, Chameleon & Box Jellyfish) are presented in this zoo.
