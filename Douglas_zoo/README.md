@@ -1,4 +1,4 @@
-The readme is created to show the directory for Douglas_zoo :)
+The readme is created to show the directory for Douglas_zoo
 
 Group Member:
 Douglas Oviedo - doug-oviedo
