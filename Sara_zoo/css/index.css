@@ -1,0 +1,9 @@
+html {
+    border: solid;
+}
+
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: rgb(250, 186, 114);
+    text-align: center;
+  }
