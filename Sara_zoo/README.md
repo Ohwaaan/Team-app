@@ -1,3 +1,3 @@
-#Assignment 1 -- Zoo
+# Assignment 1 -- Zoo
 
 Sara Abdelrazek - saraabdel
