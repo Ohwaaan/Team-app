@@ -1,3 +1,3 @@
-The readme is created to show the directory for Sara_zoo :)
+#Assignment 1 -- Zoo
 
-Please update with your actual readme text when you access this!!
+Sara Abdelrazek - saraabdel
