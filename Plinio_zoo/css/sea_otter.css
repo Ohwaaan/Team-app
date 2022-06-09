@@ -4,6 +4,8 @@ html {
 
 body {
     font-family: sans-serif;
-    background-color: palegoldenrod;
+    font-weight: bold;
+    color: white;
+    background-color: darkslategray;
     text-align: center;
 }
